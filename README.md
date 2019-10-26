@@ -1,21 +1,23 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/creyesp/Meetup_uy/master)
-[![Colab](https://colab.research.google.com/img/colab_favicon.ico)](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/)
+[<img alt='colab' src="https://colab.research.google.com/img/colab_favicon.ico" width="5%">](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1)
+
 # Meetup_uy
 Introduction to scikit-learn in a regression problem
 
 # Quick Start
 
 ## Run in mybinder server
-MyBinder is a free service to run repository en a notebook sesion without install anything, just click [here](https://mybinder.org/v2/gh/creyesp/Meetup_uy/master).
+MyBinder is a free service to run a repository with notebooks in a live sesion without install anything, just click [here](https://mybinder.org/v2/gh/creyesp/Meetup_uy/master).
 
 **Warning**: MyBinder run a temporal sesion, when you leave sesion all your changes are going to be delete.
 
 ## Run in Google Colab
 Colab is a google service to run notebook, but you can only run 1 notebook and to access to complete resources of the repository you should clone repository manually.
 
-Click here to run in colab. 
+Click [here](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1) to run in colab. 
 
 When the sesion are ready run in a new cell the following commnads:
+
 	!git clone https://github.com/creyesp/Meetup_uy.git
 	!mv Meetup_uy/* .
 
@@ -31,3 +33,4 @@ Install python 3.5+ in your own machine and clone this repository following next
 	$ source venv/bin/activate
 	$ python3 -m pip install --user --upgrade -r binder/requirements.txt
 	$ jupyter notebook
+

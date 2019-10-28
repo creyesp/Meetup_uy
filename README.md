@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/creyesp/Meetup_uy/master)
-[<img alt='colab' src="https://colab.research.google.com/img/colab_favicon.ico" width="5%">](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1)
+[![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667
+)](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1)
+
 
 # Meetup_uy
 Introduction to scikit-learn in a regression problem

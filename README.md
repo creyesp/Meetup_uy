@@ -3,18 +3,24 @@
 )](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1)
 
 
-# Meetup_uy
-Introduction to scikit-learn in a regression problem
+# Introduction to scikit-learn in a regression problem
+
+This project aims is explore the principal ideas behind of scikit-learn library. [The notebook](notebooks/Introduction_to_Scikit-Learn.ipynb) contain some simple example code to show how scikit-learn work, then we use a real dataset of Montevideo housing prices to create a real model to predict the price of each house.
+
+This project was developed to be shared in [Montevideo Applied Data Science, AI and Big Data MeetUp](https://www.meetup.com/Montevideo-Applied-Data-Science-and-Big-Data/)
 
 # Quick Start
 
-## Run in mybinder server
+## Look at notebook
+If you can only look at notebook without run the code. Try [here](https://nbviewer.jupyter.org/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb)
+
+## Run in MyBinder server
 MyBinder is a free service to run a repository with notebooks in a live sesion without install anything, just click [here](https://mybinder.org/v2/gh/creyesp/Meetup_uy/master).
 
 **Warning**: MyBinder run a temporal sesion, when you leave sesion all your changes are going to be delete.
 
 ## Run in Google Colab
-Colab is a google service to run notebook, but you can only run 1 notebook and to access to complete resources of the repository you should clone repository manually.
+Colab is a google service to run notebook, but you can only run 1 notebook and to access to complete resources of the repository you should clone repository manually. 
 
 Click [here](https://colab.research.google.com/github/creyesp/Meetup_uy/blob/master/notebooks/Introduction_to_Scikit-Learn.ipynb?authuser=1) to run in colab. 
 
@@ -24,6 +30,8 @@ When the sesion are ready run in a new cell the following commnads:
 	!mv Meetup_uy/* .
 
 Finally change all path to the current location, for example '../data/ready/properties.csv' to 'data/ready/properties.csv'
+
+If you can save you changes you can save the notebook in your drive.
 
 ## Run in a local environment
 
